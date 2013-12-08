@@ -1,0 +1,1 @@
+open("hello-world.txt", "w")
